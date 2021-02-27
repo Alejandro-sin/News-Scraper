@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="images/logo.png">
   <br/>
-  Project: 
+  Project: News_scraper
   <br>
 </h1>
 
@@ -33,17 +33,3 @@ Im base on...
       <li><a href="#Improvements"> Improvements</a></li>
       <li><a href="#References"> References</a></li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
